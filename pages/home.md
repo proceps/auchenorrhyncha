@@ -17,6 +17,7 @@ project: "TaxonPages: World Auchenorrhyncha Database"
 </table>
 </div>
 
+<p><font color="#FF0000">This is old repository. Please use the new address: <a href="https://hoppers.speciesfile.org">https://hoppers.speciesfile.org</a>.</font></p>
 <div style='display: flex; justify-content: center; align-items: center;'>
 <autocomplete-otu style="width:25rem;"/>
 </div>
